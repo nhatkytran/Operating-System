@@ -1,0 +1,45 @@
+// Day 1 ////////////////////////////////////////////////////////////////////////////////////
+
+OPERATING SYSTEM
+
+- An Operating System (OS) is a program that manages the computer hardware
+- Provides a basis for Application Programs
+- Acts as an intermediary between computer User and computer Hardware
+
+Hardware: CPU, Memory, I/O devices
+Operating System
+
+System / Application Programs
+
+1. System Programs: Operating System is one kind of System Application (System Software)
+
+2. Application Programs: Word, Excel, Compiler,...
+
+Types of OS:
+
+- Batch OS
+- Time Sharing OS
+- Distributed OS
+- Network OS
+- Real Time OS
+- Multi Programming / Processing / Tasking OS
+
+Functions of OS:
+
+- It is an interface between User & Hardware
+- Allocation of Resources
+- Management of Memory, Security,...
+
+Goals of OS:
+
+- Convenience
+- Efficiency
+- Both
+
+// Day 2 ////////////////////////////////////////////////////////////////////////////////////
+
+// Day 3 ////////////////////////////////////////////////////////////////////////////////////
+
+// Day 4 ////////////////////////////////////////////////////////////////////////////////////
+
+DMA Direct Memory Access
